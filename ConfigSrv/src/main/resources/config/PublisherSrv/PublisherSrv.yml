@@ -1,0 +1,4 @@
+kafka:
+  bootstrap-servers: vm-e805-4eab:9092
+  topic:
+    helloworld: test.t
